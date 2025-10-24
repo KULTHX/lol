@@ -1,0 +1,5 @@
+{
+  "name": "Bilingual AI Chat",
+  "description": "A sleek, responsive, and bilingual (Arabic/English) AI chat application powered by the Gemini API. It features a dark-themed, real-time streaming interface for natural conversations.",
+  "requestFramePermissions": []
+}
